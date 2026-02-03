@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Timothy (Tim)
 
-Full-stack developer who enjoys building thoughtful web apps, meaningful side projects, and the occasional game — always learning, always iterating.
+Full-stack developer who enjoys building creative web apps, occasionally designing mini-games and exploring machine learning.
 
 ---
 
